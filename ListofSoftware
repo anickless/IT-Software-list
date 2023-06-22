@@ -1,0 +1,35 @@
+1) Profile Creator : Creates profiles for macOS, iOS, tvOS
+
+https://github.com/ProfileCreator/ProfileCreator
+
+2) iMazing Profile Editor: Creates Profiles for macOS, iOS, tvOS
+  - Sometimes this works better than Profile Creator 
+
+https://imazing.com/profile-editor
+
+2) PPPC-Utility: Creates Privacy Preferences Policy Control payloads for macOS
+
+  https://github.com/jamf/PPPC-Utility
+
+
+3) Script2pkg: Helps create payload-free packages for macOS
+  - Useful for deploying a script as a package.
+
+https://github.com/SAP/script-to-package-tool-for-macos
+
+4)Suspicious Package
+  - Inspects .pkgs, useful for detecting malicious packages and also seeing how one is created
+
+https://mothersruin.com/software/SuspiciousPackage/
+
+5) Payload-Free-Package-Creator
+  -is an Automator application that uses AppleScript, shell scripting and pkgbuild behind the scenes to create payload-free packages. 
+
+https://github.com/rtrouton/Payload-Free-Package-Creator
+
+5) PlistEdit pro ($)
+  - Edits and creates plist files
+https://www.fatcatsoftware.com/plisteditpro/
+
+6) Jamf Composer
+  - Creates packages for installation
