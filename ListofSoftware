@@ -1,4 +1,4 @@
-1) Profile Creator : Creates profiles for macOS, iOS, tvOS
+1) Profile Creator: Creates profiles for macOS, iOS, tvOS
 
 https://github.com/ProfileCreator/ProfileCreator
 
@@ -23,13 +23,19 @@ https://github.com/SAP/script-to-package-tool-for-macos
 https://mothersruin.com/software/SuspiciousPackage/
 
 5) Payload-Free-Package-Creator
-  -is an Automator application that uses AppleScript, shell scripting and pkgbuild behind the scenes to create payload-free packages. 
+  -is an Automator application that uses AppleScript, shell scripting, and pkgbuild behind the scenes to create payload-free packages. 
 
 https://github.com/rtrouton/Payload-Free-Package-Creator
 
 5) PlistEdit pro ($)
   - Edits and creates plist files
+
 https://www.fatcatsoftware.com/plisteditpro/
 
-6) Jamf Composer
-  - Creates packages for installation
+6) Jamf Composer ($)
+  - Creates packages for installation, very good at what it does, can take before-installation snapshots, and after-installation snapshots. You can add pre and post-installation scripts.
+
+7) Prolific USB to Serial driver
+  - Best chip around that works with Mac for Terminal connections, Startech, and maybe a few others have this chip in the Serial to USB converters and it is always dependable.
+
+  https://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41
